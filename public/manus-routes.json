@@ -1,0 +1,9 @@
+{
+  "routes": [
+    { "path": "/", "title": "SignalRoom" },
+    { "path": "/home", "title": "SignalRoom room dashboard" },
+    { "path": "/chat", "title": "SignalRoom chat" },
+    { "path": "/assistant", "title": "SignalRoom AI brief" },
+    { "path": "/settings", "title": "SignalRoom settings" }
+  ]
+}
